@@ -1,4 +1,4 @@
-buildname: eShop build
+buildname: build
 
 on:
   push:
